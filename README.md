@@ -1,2 +1,2 @@
 # chat-socket
-nodejs, socket-io App
+nodejs, socket.io App
